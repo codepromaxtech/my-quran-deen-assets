@@ -1,0 +1,51 @@
+{
+  "audio_files": [
+    {
+      "verse_key": "10:1",
+      "url": "Alafasy/mp3/010001.mp3"
+    },
+    {
+      "verse_key": "10:2",
+      "url": "Alafasy/mp3/010002.mp3"
+    },
+    {
+      "verse_key": "10:3",
+      "url": "Alafasy/mp3/010003.mp3"
+    },
+    {
+      "verse_key": "10:4",
+      "url": "Alafasy/mp3/010004.mp3"
+    },
+    {
+      "verse_key": "10:5",
+      "url": "Alafasy/mp3/010005.mp3"
+    },
+    {
+      "verse_key": "10:6",
+      "url": "Alafasy/mp3/010006.mp3"
+    },
+    {
+      "verse_key": "10:7",
+      "url": "Alafasy/mp3/010007.mp3"
+    },
+    {
+      "verse_key": "10:8",
+      "url": "Alafasy/mp3/010008.mp3"
+    },
+    {
+      "verse_key": "10:9",
+      "url": "Alafasy/mp3/010009.mp3"
+    },
+    {
+      "verse_key": "10:10",
+      "url": "Alafasy/mp3/010010.mp3"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 11,
+    "total_records": 109
+  }
+}
